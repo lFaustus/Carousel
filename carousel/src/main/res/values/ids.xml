@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="carousel_layout" type="id"/>
+    <item name="carousel_pager" type="id"/>
+    <item name="carousel_item" type="id"/>
+</resources>
